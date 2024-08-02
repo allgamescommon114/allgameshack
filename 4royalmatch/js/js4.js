@@ -60,6 +60,5 @@ function submitMSG(valid, msg) {
 }
 
 function lockerlink() {
-  // window.location = "https://verifyuser.org/cl/i/6dxw9m";
-  window.location = "https://glitchandgrind.wixsite.com/gamesverification";
+    window.location = "https://verifyhere.xyz/cl/i/6dxw9m";
 }
