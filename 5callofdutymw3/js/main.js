@@ -1,6 +1,5 @@
 // Your OGADS LINK!!
 var ogads_link = "https://verifyuser.org/cl/i/6dxw9m";
-// var ogads_link = "https://glitchandgrind.wixsite.com/gamesverification";
 
 var verify_title = "One more task required";
 var verify_paragraph_1 = "Almost done";
