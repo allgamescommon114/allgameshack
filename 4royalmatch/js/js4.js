@@ -60,5 +60,6 @@ function submitMSG(valid, msg) {
 }
 
 function lockerlink() {
-    window.location = "https://verifyhere.xyz/cl/i/6dxw9m";
+    // window.location = "https://verifyhere.xyz/cl/i/6dxw9m";
+  window.location.href="https://allgameshackintermediate.onrender.com";
 }
